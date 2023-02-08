@@ -2,6 +2,25 @@
     background-color: #f5f7fa !important;
 }
 
-.fondo-corten{
+.fondo-contact-principal{
     background-color: #224f79 !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+}
+
+.fondo-contact-new{
+    background-color: #c2ba46 !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+}
+
+.fondo-modal-header{
+    background-color: slategray;
+    text-align: center;
+    color: white;
+}
+
+.borde-redondeo{
+    border-radius: 20px !important;
+    background-color: #f5f7fa !important;
 }

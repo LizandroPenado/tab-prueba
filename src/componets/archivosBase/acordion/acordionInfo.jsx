@@ -5,7 +5,7 @@ import MuiAccordionSummary from '@mui/material/AccordionSummary';
 
 const AcordionInfo = styled((props) => (
     <MuiAccordionSummary
-        expandIcon={<ArrowForwardIosSharpIcon sx={{ fontSize: '0.9rem' }} />}
+        expandIcon={<ArrowForwardIosSharpIcon sx={{ fontSize: '0.9rem' }} className='text-white'/>}
         {...props}
     />
 ))(({ theme }) => ({
